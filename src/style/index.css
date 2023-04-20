@@ -134,5 +134,16 @@
   content: "\e68d";
 }
 body {
-  background-color: pink;
+  background-color: #f5f7f9;
+}
+body .van-nav-bar .van-icon {
+  color: #fff;
+}
+.nav-color {
+  background-color: #2ca6ff !important;
+}
+.van-nav-bar__content .van-nav-bar__title,
+.van-nav-bar__content .van-nav-bar__text,
+.van-nav-bar__content .van-nav-bar .van-icon {
+  color: #fff;
 }
